@@ -1,2 +1,4 @@
 venv
-audio-input.wav
+*.wav
+*.mp4
+*.srt
